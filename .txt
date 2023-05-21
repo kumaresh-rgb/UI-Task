@@ -1,0 +1,29 @@
+
+      <div class="llastleft">
+        <div class="lasttext">
+          <text>Showing</text>
+        </div>
+        
+          <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn">10&nbsp;<i class='bx bx-chevron-down'></i></button>
+            <div id="myDropdown" class="dropdown-content">
+              <a href="#home">20</a>
+              <a href="#about">50</a>
+              <a href="#contact">100</a>
+            </div>
+          of 24
+        </div>
+
+
+        <div class="llastright">
+          <div class="pagination">
+            <a href="#">Prev</a>
+            <a href="#" class="active">1</a>
+            <a href="#" >2</a>
+            <a href="#">3</a>
+            <a href="#">Next</a>
+            
+            <a href="#"></a>
+          </div>
+        </div>
+      </div>
